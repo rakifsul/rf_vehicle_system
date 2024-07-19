@@ -19,3 +19,7 @@ Open with Godot Engine 3, then run the scene.
 <p align="center">
 	<img src="./.md_asset/ss_2024.07.13-2046.png" />
 </p>
+
+## Link untuk Traktir
+
+- https://karyakarsa.com/rakifsul/info
